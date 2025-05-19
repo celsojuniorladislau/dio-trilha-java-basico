@@ -29,3 +29,6 @@ public class Calculadora {
         return numeroUm + numeroDois;
     }
 }
+
+// javadoc -encoding UTF-8 -docencoding ISO-8859-1 -d ../docs src\*.java
+// comando para gerar a documentação no terminal
