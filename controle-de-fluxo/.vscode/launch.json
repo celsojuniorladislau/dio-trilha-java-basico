@@ -1,0 +1,91 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "ExemploDoWhile",
+            "projectName": "controle-de-fluxo_d1f6c694"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "CaixaEletronico",
+            "projectName": "controle-de-fluxo_d1f6c694"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "ExemploBreakContinue",
+            "projectName": "controle-de-fluxo_d1f6c694"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "ExemploFor",
+            "projectName": "controle-de-fluxo_d1f6c694"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor1",
+            "request": "launch",
+            "mainClass": "ExemploFor1",
+            "projectName": "controle-de-fluxo_d1f6c694"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArray",
+            "request": "launch",
+            "mainClass": "ExemploForArray",
+            "projectName": "controle-de-fluxo_d1f6c694"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "ExemploWhile",
+            "projectName": "controle-de-fluxo_d1f6c694"
+        },
+        {
+            "type": "java",
+            "name": "PlanoOperadoraSwitchCase",
+            "request": "launch",
+            "mainClass": "PlanoOperadoraSwitchCase",
+            "projectName": "controle-de-fluxo_d1f6c694"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "ResultadoEscolar",
+            "projectName": "controle-de-fluxo_d1f6c694"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolarComTernário",
+            "request": "launch",
+            "mainClass": "ResultadoEscolarComTernário",
+            "projectName": "controle-de-fluxo_d1f6c694"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedidaSwitchCase",
+            "request": "launch",
+            "mainClass": "SistemaMedidaSwitchCase",
+            "projectName": "controle-de-fluxo_d1f6c694"
+        }
+    ]
+}
